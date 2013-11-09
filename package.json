@@ -24,6 +24,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt-jasmine-node": "~0.1.0",
     "grunt-contrib-jasmine": "~0.5.2",
-    "istanbul": "~0.1.44"
+    "istanbul": "~0.1.44",
+    "yeti": "~0.2.24"
   }
 }
