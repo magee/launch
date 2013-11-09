@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "istanbul test run.js"
   },
   "dependencies": {
     "express": "3.4.4",
@@ -22,6 +23,7 @@
     "grunt-contrib-jshint": "~0.7.1",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-jasmine-node": "~0.1.0",
-    "grunt-contrib-jasmine": "~0.5.2"
+    "grunt-contrib-jasmine": "~0.5.2",
+    "istanbul": "~0.1.44"
   }
 }
