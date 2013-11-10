@@ -25,6 +25,7 @@
     "grunt-jasmine-node": "~0.1.0",
     "grunt-contrib-jasmine": "~0.5.2",
     "istanbul": "~0.1.44",
-    "yeti": "~0.2.24"
+    "yeti": "~0.2.24",
+    "nodeunit": "~0.8.2"
   }
 }
